@@ -18,4 +18,4 @@ steps:
   inputs:
     repository: $(imageName)
     command: build
-    Dockerfile: complete/Dockerfile
+    Dockerfile: https://github.com/meirklein6/gs-spring-boot-docker/blob/master/complete/Dockerfile
